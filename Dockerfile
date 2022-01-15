@@ -1,4 +1,4 @@
-FROM spurin/container-systemd-sshd-ttyd:ubuntu_20.04
+FROM spurin/container-systemd-sshd-ttyd:ubuntu_21.04
 
 # Install editors and common utilities
 RUN apt-get update \
