@@ -1,5 +1,8 @@
 ## ✨ Popular linux distributions configured with systemd, sshd, ttyd and commontools ✨
 
+[![Follow](https://shields.io/twitter/follow/jamesspurin?label=Follow)](https://twitter.com/jamesspurin)
+[![GitHub Stars](https://shields.io/docker/pulls/spurin/container-systemd-sshd-ttyd-commontools)](https://hub.docker.com/r/spurin/container-systemd-sshd-ttyd-commontools)
+
 Popular linux distributions with systemd, sshd, ttyd and commontools.  Superb for use with Docker 🐋
 
 ## Overview
