@@ -9,7 +9,7 @@ FROM spurin/container-systemd-sshd-ttyd:centos_stream9
 # using dnf
 RUN yum groupinstall -y "Base" \
     && yum install -y vim nano \
-    diffutils iputils git net-tools lsof unzip \
+    diffutils iproute iputils git net-tools lsof unzip \
     dnf-plugins-core \
     && yum clean all
 
